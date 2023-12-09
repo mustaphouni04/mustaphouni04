@@ -1,5 +1,5 @@
 # Mustapha El Aichouni
-![Mario Animation](https://i.imgur.com/6rPUUe9.gif)
+![Mario Animation](https://i.imgur.com/ffNnFbq.gif)
 ## About Me
 I'm an Artificial Intelligence student at UAB (Autonomous University of Barcelona)
 
