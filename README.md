@@ -1,16 +1,13 @@
-### Hi there 👋
+# Mustapha El Aichouni
+![Mario Animation](https://i.imgur.com/6rPUUe9.gif)
+## About Me
+I'm an Artificial Intelligence student at UAB (Autonomous University of Barcelona)
 
-<!--
-**mustaphouni04/mustaphouni04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 💻 Programming Languages: R, C++, Python, C
+- 🛠️ Tools & Technologies: Git, Jupyter Notebook, Github
+- 📚 Areas of Interest: Machine Learning & AI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 💼 https://www.linkedin.com/in/mustapha-el-aichouni-jouied-322879280/
+- 📧 Email: elaichounimustapha@gmail.com
