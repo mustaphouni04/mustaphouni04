@@ -1,7 +1,5 @@
 # Mustapha El Aichouni
-<div align = "center">
-  <img src="https://media1.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e4707chuz4bnmm7xbvhlonmowx5e91eys6hsz4646ns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px"/>
-</div>
+
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/mustapha-el-aichouni-jouied-322879280/">
