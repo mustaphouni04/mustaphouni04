@@ -1,15 +1,17 @@
 # Mustapha El Aichouni
-<div id="header" align="center">
-  <img src="https://i.imgur.com/ffNnFbq.gif" width="100"/>
+<div align = "center">
+  <img src="https://media1.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e4707chuz4bnmm7xbvhlonmowx5e91eys6hsz4646ns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px"/>
 </div>
 
-<div id="badges">
+<div id="badges", align="center">
   <a href="https://www.linkedin.com/in/mustapha-el-aichouni-jouied-322879280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=mustaphouni04&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustaphouni04&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## About Me
 I'm an Artificial Intelligence student at UAB (Autonomous University of Barcelona)
