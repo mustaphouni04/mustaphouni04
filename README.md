@@ -10,7 +10,6 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=mustaphouni04&style=flat-square&color=blue" alt=""/>
-![Snake animation](https://github.com/mustaphouni04/mustaphouni04/blob/output/github-contribution-grid-snake.svg)
 
 ## About Me
 I'm an Artificial Intelligence student at UAB (Autonomous University of Barcelona)
