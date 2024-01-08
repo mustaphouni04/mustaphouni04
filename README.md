@@ -1,6 +1,6 @@
 # Mustapha El Aichouni
 <div align = "center">
-  <img src="https://media1.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e4707chuz4bnmm7xbvhlonmowx5e91eys6hsz4646ns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px"/>
+  <img src="https://media1.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e4707chuz4bnmm7xbvhlonmowx5e91eys6hsz4646ns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px"/>
 </div>
 
 <div id="badges", align="center">
@@ -17,15 +17,14 @@
 I'm an Artificial Intelligence student at UAB (Autonomous University of Barcelona)
 
 ---
-## Skills
-- 💻 Programming Languages: R, C++, Python, C
-- 🛠️ Tools & Technologies: Git, Jupyter Notebook, Github
-- 📚 Areas of Interest: Machine Learning & AI
-
----
 ## My Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustaphouni04&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphouni04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+## Skills
+- 💻 Programming Languages: R, C++, Python, C
+- 📚 Areas of Interest: Machine Learning & AI
 
 ---
 ## Connect with Me
